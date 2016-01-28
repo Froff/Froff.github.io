@@ -1,0 +1,15 @@
+body {
+	margin: 0;
+	border: 0;
+	padding: 0;
+	background-color: #000000;
+}
+
+#output {
+	height: 2em;
+}
+
+#graph {
+	margin: 0;
+	border: 0;
+}
